@@ -1,4 +1,4 @@
-### DSA-HW02--Sparse-Matrix
+## DSA-HW02--Sparse-Matrix
 
 # Sparse Matrix Operations
 
