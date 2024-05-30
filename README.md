@@ -5,7 +5,6 @@
 This project allows you to perform operations (addition, subtraction, multiplication) on sparse matrices using Python.
 
 ## Folder Structure
-
 DSA-HW02--Sparse-Matrix/
 │
 ├── code/
